@@ -1,8 +1,3 @@
-| Data Types  |
-| ------------- |
-| int  |
-| float  |
-| double |
-| char  |
-| bool  |
-| void  |
+##int
+##float
+##double
