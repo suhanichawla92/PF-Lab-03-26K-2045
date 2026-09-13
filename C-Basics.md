@@ -1,14 +1,8 @@
-# My Project
+# Data Types
 
-This is my first Markdown file.
-
-## Features
-
-- Easy to use
-- Free
-- Open source
-
-## Installation
-
-```bash
-npm install
+- int
+- float
+- double
+- char
+- bool
+- void
