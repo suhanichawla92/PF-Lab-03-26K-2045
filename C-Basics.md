@@ -33,3 +33,7 @@
 |putchar() | it is a C function used to print character  |
 |fgets() | it is a C function used to read a line of text from a file |
 | puts()| it is a C function used to print a string to the screen.  |
+
+## Floating point
+
+Floating points are used to control the digits after decimal. We normally use float, double etc but if we want specific digits after decimal we use %.x. If we want 9 digits after decimal, we will use %.9
