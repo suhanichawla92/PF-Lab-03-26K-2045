@@ -8,6 +8,8 @@
 - void
 
 
+## Format Specifiers
+
 | Format Specifiers |
 | ------------- |
 | %d |
@@ -22,6 +24,7 @@
 | %ld |
 
 
+## Functions
 | Function | Description |
 | --- | --- |
 |scanf()  | it is used to take input |
