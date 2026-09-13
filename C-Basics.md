@@ -1,9 +1,14 @@
-##int
+# My Project
 
-ghadahdcha
+This is my first Markdown file.
 
-##float
-vafhafvagvfhagf
+## Features
 
-##double
-havfhafhafgaufajfg
+- Easy to use
+- Free
+- Open source
+
+## Installation
+
+```bash
+npm install
