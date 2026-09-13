@@ -4,9 +4,11 @@ Roll Number: 26K-2045
 Lab Title: Programming Fundamentals Lab 03
 
 Introduction:
+
 This lab introduces the basics of GitHub, Markdown documentation, and fundamental C programming concepts. In this lab, I will learn how to create and manage a GitHub repository, work with branches and Pull Requests, and write simple C programs using data types, input/output functions, format specifiers, escape sequences, and precision.
 
 Objectives:
+
 Create and configure a GitHub repository.
 Learn how to create and work with branches.
 Create commits and Pull Requests on GitHub.
@@ -16,6 +18,7 @@ Practice input and output functions in C.
 Understand escape sequences and floating-point precision.
 
 C Topics Covered in Lab 03:
+
 C data types
 Format specifiers
 printf()
