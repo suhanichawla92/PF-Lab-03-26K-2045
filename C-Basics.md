@@ -1,8 +1,8 @@
-| Data Types  | Format Specifiers |
-| ------------- | ------------- |
-| int  | %d  |
-| float  | Content Cell  |
-| float  | Content Cell  |
-| float  | Content Cell  |
-| float  | Content Cell  |
-| float  | Content Cell  |
+| Data Types  |
+| ------------- |
+| int  |
+| float  |
+| double |
+| char  |
+| bool  |
+| void  |
